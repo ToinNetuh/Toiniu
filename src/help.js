@@ -10,10 +10,15 @@ Oiin
   ❏ Grupo do Bot: https://chat.whatsapp.com/CLRNnixaxwM6l73bj3fPke
 
   Outros Menus
-  ${prefix}nsfwmenu
-  ${prefix}menuadmin
-  ${prefix}toinmenu
+  ❏${prefix}nsfwmenu
+  ❏${prefix}menuadmin
+  ❏${prefix}toinmenu
 
+  
+◪ *LEVEL*
+  │
+  ├─ ❏ ${prefix}leveling
+  └─ ❏ ${prefix}level
 ◪ *CRIAR*
   │
   ├─ ❏ ${prefix}sticker
@@ -25,6 +30,9 @@ Oiin
   ├─ ❏ ${prefix}ninjalogo
   ├─ ❏ ${prefix}water
   ├─ ❏ ${prefix}firetext
+  ├─ ❏ ${prefix}neonlogo
+  ├─ ❏ ${prefix}lionlogo
+  ├─ ❏ ${prefix}jokerlogo
   └─ ❏ ${prefix}quotemaker
 ◪ *PESQUISA*
   │
@@ -34,7 +42,7 @@ Oiin
   └─ ❏ ${prefix}artinama
 ◪ *DOWNLOADER*
   │
-  ├─ ❏ ${prefix}pinterest
+  ├─ ❏ ${prefix}images 
   ├─ ❏ ${prefix}ytmp3
   ├─ ❏ ${prefix}ytmp4
   ├─ ❏ ${prefix}joox
@@ -45,18 +53,15 @@ Oiin
   │
   ├─ ❏ ${prefix}meme
   └─ ❏ ${prefix}memeindo
-◪ *SOUND*
+◪ *SOM*
   │
   ├─ ❏ ${prefix}play
   └─ ❏ ${prefix}tts
-◪ *MUSIC*
+◪ *MUSICA*
   │
   ├─ ❏ ${prefix}lirik
   └─ ❏ ${prefix}chord
-◪ *ISLAM*
-  │
-  └─ ❏ ${prefix}quran
-◪ *STALK*
+◪ *STALKEAR*
   │
   ├─ ❏ ${prefix}tiktokstalk
   └─ ❏ ${prefix}igstalk
@@ -65,16 +70,20 @@ Oiin
   ├─ ❏ ${prefix}neonime
   ├─ ❏ ${prefix}pokemon
   ├─ ❏ ${prefix}loli
+  ├─ ❏ ${prefix}waifu
+  ├─ ❏ ${prefix}wallpaper
+  ├─ ❏ ${prefix}neko
   └─ ❏ ${prefix}nekonime
-◪ *FUN*
+◪ *DIVERSÃO*
   │
   ├─ ❏ ${prefix}alay
   ├─ ❏ ${prefix}gantengcek
   ├─ ❏ ${prefix}watak
   ├─ ❏ ${prefix}hobby
   ├─ ❏ ${prefix}game
+  ├─ ❏ ${prefix}simih
   └─ ❏ ${prefix}glitch
-◪ *INFORMATION*
+◪ *INFORMAÇÂO*
   │
   ├─ ❏ ${prefix}bahasa
   ├─ ❏ ${prefix}kodenegara
@@ -82,7 +91,7 @@ Oiin
   ├─ ❏ ${prefix}fakta
   ├─ ❏ ${prefix}infocuaca
   └─ ❏ ${prefix}covid
-◪ *OTHER*
+◪ *OUTROS*
   │
   ├─ ❏ ${prefix}send
   ├─ ❏ ${prefix}wame

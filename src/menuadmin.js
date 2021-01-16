@@ -5,6 +5,7 @@ const menuadmin = (prefix, pushname) => {
  ◪ *COMANDO DOS ADMINS*
   │
   ├─ ❏ ${prefix}opengc
+  ├─ ❏ ${prefix}del
   ├─ ❏ ${prefix}closegc
   ├─ ❏ ${prefix}promote
   ├─ ❏ ${prefix}demote

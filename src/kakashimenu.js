@@ -1,5 +1,5 @@
-const toinmenu = (prefix, pushname) => {
-    return `◪ *Comandos do Toin*
+const kakashimenu = (prefix, pushname) => {
+    return `◪ *Comandos do Kakashi*
     │
     ├─ ❏ ${prefix}setprefix
     ├─ ❏ ${prefix}block
@@ -9,4 +9,4 @@ const toinmenu = (prefix, pushname) => {
 
 }
 
-exports.toinmenu = toinmenu
+exports.kakashimenu = kakashimenu

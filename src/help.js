@@ -1,13 +1,13 @@
 const help = (prefix, pushname, botname, oname) => {
 	return `
-「 *Toin Bot* 」
+「 *Tetsujin-28* 」
 Oiin
 
 ◪ *INFORMAÇÕES*
   ❏ Prefix: 「  ${prefix}  」
-  ❏ Criador: Toin
-  ❏ Numero do meu criador: https://wa.me/5562996638900
-  ❏ Grupo do Bot: https://chat.whatsapp.com/CLRNnixaxwM6l73bj3fPke
+  ❏ Criador: Kakashi Edits
+  ❏ Numero do meu criador: https://wa.me/5591984375625
+  ❏ Grupo do Bot: https://chat.whatsapp.com/FfYobT8V44f1pkl8RLtx61
 
   Outros Menus
   ❏${prefix}nsfwmenu
